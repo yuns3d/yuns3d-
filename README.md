@@ -29,10 +29,6 @@ I'm **Yuns3D**, a passionate **3D Artist** and **Product Visualization Specialis
 <a href="https://www.behance.net/yuns3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yuns3d" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
-
-
 ---
 
 > “Creating 3D art is not just about the visuals; it’s about telling a story that resonates.”
