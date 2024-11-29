@@ -28,6 +28,13 @@ I'm **Yuns3D**, a passionate **3D Artist** and **Product Visualization Specialis
 🎨 [Behance]([https://behance.net/your-profile](https://www.behance.net/yuns3d))  
 📸 [Instagram]([https://instagram.com/your-profile](https://www.instagram.com/yuns3d/))  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yuns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuns" height="30" width="40" /></a>
+<a href="https://instagram.com/yuns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuns" height="30" width="40" /></a>
+<a href="https://www.behance.net/yuns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yuns" height="30" width="40" /></a>
+</p>
+
 ---
 
 > “Creating 3D art is not just about the visuals; it’s about telling a story that resonates.”
