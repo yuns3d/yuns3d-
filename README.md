@@ -22,12 +22,6 @@ I'm **Yuns3D**, a passionate **3D Artist** and **Product Visualization Specialis
 
 ---
 
-## 📫 Let's Connect!
-
-💼 [LinkedIn](www.linkedin.com/in/yuns-3d-875bbb19b)  
-🎨 [Behance]([https://behance.net/your-profile](https://www.behance.net/yuns3d))  
-📸 [Instagram]([https://instagram.com/your-profile](https://www.instagram.com/yuns3d/))  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/younesse jbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younesse jbari" height="30" width="40" /></a>
@@ -36,7 +30,7 @@ I'm **Yuns3D**, a passionate **3D Artist** and **Product Visualization Specialis
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
 
 
 ---
