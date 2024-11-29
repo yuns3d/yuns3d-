@@ -22,11 +22,12 @@ I'm **Yuns3D**, a passionate **3D Artist** and **Product Visualization Specialis
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/younesse jbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younesse jbari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuns3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuns3d" height="30" width="40" /></a>
 <a href="https://instagram.com/yuns3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuns3d" height="30" width="40" /></a>
-<a href="https://www.behance.net/yuns3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yuns3d" height="30" width="40" /></a>
+<a href="https://www.behance.net/yuns 3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yuns 3d" height="30" width="40" /></a>
 </p>
 
 ---
